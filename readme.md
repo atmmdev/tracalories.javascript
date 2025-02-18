@@ -26,7 +26,7 @@
 </div>
 
 ## Description
-Project created with JavaScript Vanilla, with the goals to improve skills in Object-oriented programming (OOP). App to track calories, meals and workouts. CRUD using localStorage with Webpack, JavaScript Vanilla, HTML5, CSS3 and Bootstrap. See the (DEMO)[https://tracalories-javascript.vercel.app/]
+Project created with JavaScript Vanilla, with the goals to improve skills in Object-oriented programming (OOP). App to track calories, meals and workouts. CRUD using localStorage with Webpack, JavaScript Vanilla, HTML5, CSS3 and Bootstrap. See the [DEMO](https://tracalories-javascript.vercel.app/)
 
 ## Layout and Project Diagram
 
