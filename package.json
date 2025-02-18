@@ -1,5 +1,5 @@
 {
-  "name": "project.tracalories",
+  "name": "tracalories.javascript",
   "version": "1.0.0",
   "description": "App to track calories, meals and workouts. CRUD using localStorage with webpack, javascript vanilla, html5, css3 and bootstrap",
   "main": "app.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atmmoreira/project.tracalories.git"
+    "url": "git+https://github.com/atmmdev/tracalories.javascript"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atmmoreira/project.tracalories/issues"
+    "url": "https://github.com/atmmdev/tracalories.javascript/issues"
   },
-  "homepage": "https://github.com/atmmoreira/project.tracalories#readme",
+  "homepage": "https://github.com/atmmdev/tracalories.javascript#readme",
   "devDependencies": {
     "@babel/core": "^7.22.15",
     "@babel/preset-env": "^7.22.15",
