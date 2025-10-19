@@ -13,6 +13,12 @@
 
 </div>
 
+<div align="center">
+
+![COMPLETE](https://img.shields.io/badge/COMPLETE-7ED321?style=for-the-badge&logo=cachet&logoColor=white)
+
+</div>
+
 ## Descriptions
 
 Project created with JavaScript Vanilla, with the goals to improve skills in Object-oriented programming (OOP). App to track calories, meals and workouts. CRUD using localStorage with Webpack, JavaScript Vanilla, HTML5, CSS3 and Bootstrap. See the [DEMO](https://tracalories-javascript.vercel.app/)
